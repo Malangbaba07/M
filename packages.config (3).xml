@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packages>
+	<package id="firefox" version="138.0.4"/>
+	<package id="silverlight" version="5.1.50918.0"/>
+	<package id="jre8" version="8.0.451"/>
+	<package id="python" version="3.13.3"/>
+</packages>
